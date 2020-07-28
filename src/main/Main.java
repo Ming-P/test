@@ -14,5 +14,6 @@ public class Main{
             j = j++;
         }
         System.out.println(j);
+        System.out.println("修改");
     }
 }
